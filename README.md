@@ -2,7 +2,7 @@
 ```
 Name : Jivan Karthec B S
 Roll no : 212222100017
-Date of experiment : Ex01
+
 ```
 
 ## Aim: 
